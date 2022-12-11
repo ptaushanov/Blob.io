@@ -4,7 +4,7 @@
   "description": "Combinning the powers of Agar.io and Diep.io to make a game for all the users with a modern or old browser.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "lerp": "^1.0.3",
     "socket.io": "^2.2.0"
   },
