@@ -16,5 +16,5 @@ You only need your mouse to play this game. Move your mouse to move your blob.
 ### 📃 License
 
 This project is licensed under the Apache License - _see the_
-[LICENSE.md](https://github.com/ptaushanov/festify/blob/master/LICENSE) _file
+[LICENSE.md](https://github.com/ptaushanov/Blob.io/blob/master/LICENSE) _file
 for details._
